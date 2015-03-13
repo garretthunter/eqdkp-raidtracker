@@ -1,0 +1,32 @@
+<IgnoreItems>
+  <IgnoreItem>
+    <item>Void Crystal</item>
+  </IgnoreItem>
+  <IgnoreItem>
+    <item>Nexus Crystal</item>
+  </IgnoreItem>
+  <IgnoreItem>
+    <item>Pyrestone</item>
+  </IgnoreItem>
+  <IgnoreItem>
+    <item>Lionseye</item>
+  </IgnoreItem>
+  <IgnoreItem>
+    <item>Seaspray Emerald</item>
+  </IgnoreItem>
+  <IgnoreItem>
+    <item>Empyrean Sapphire</item>
+  </IgnoreItem>
+  <IgnoreItem>
+	<item>Shadowsong Amethyst</item>
+  </IgnoreItem>
+  <IgnoreItem>
+	<item>Crimson Spinel</item>
+  </IgnoreItem>
+  <IgnoreItem>
+	<item>Badge of Justice</item>
+  </IgnoreItem>
+  <IgnoreItem>
+	<item>Heart of Darkness</item>
+  </IgnoreItem>
+</IgnoreItems>

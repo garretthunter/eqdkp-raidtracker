@@ -1,0 +1,31 @@
+<!-- INCLUDE ../../../../templates/WoWMoonclaw01/page_header.html -->
+<table width="100%" border="0" cellspacing="1" cellpadding="2">
+    <tr>
+        <th>
+          <div align="left">{L_PLUGIN_TITLE}</div>
+        </th>
+    </tr>
+    <tr>
+      <td>
+<form method="post" action="{F_CONFIG}" name="post">
+<!-- INCLUDE ../../../../plugins/ctrt/templates/WoWMoonclaw01/admin/mainmenu.html -->
+<!-- INCLUDE ../../../../plugins/ctrt/templates/WoWMoonclaw01/admin/submenu.html -->
+        <br />
+<table width="100%" border="0" cellspacing="1" cellpadding="2" class="borderless">
+    <tr class="row2">
+      <td>
+        <div style="padding:.1em">{L_HELP}</div>
+      </td>
+    </tr>
+    <tr>
+      <td >
+        <textarea name="export" rows="20" cols="60" id="export" style="width: 100%" class="input">{EXPORT}</textarea>
+      </td>
+    </tr>
+</table>
+</form>
+        </td>
+    </tr>
+</table>
+
+<!-- INCLUDE ../../../../templates/WoWMoonclaw01/page_tail.html -->
